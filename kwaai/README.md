@@ -1,5 +1,3 @@
-# subdirect
+# KWAAI interface ideas.
 
-This directory was added to the repository to satisfy the request "add subdirect to kwi".
-
-Add files here as needed.
+This directory contains the information on the interface of KWI to KWAAI
